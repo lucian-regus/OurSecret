@@ -1,6 +1,3 @@
-
-# OurSecret
-
 <h1 align="center">
   <br>
   <img src="assets/icon.png" alt="HideNSeek" width="100">
